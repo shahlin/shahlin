@@ -7,7 +7,7 @@
 
 - 💻 &nbsp;&nbsp;Currently source diving on Laravel and trying to improve my web design skills!
 
-- 📚 &nbsp;&nbsp;Oh and! Reading [Six of Crows](https://www.goodreads.com/book/show/23437156-six-of-crows), [Flow](https://www.goodreads.com/book/show/66354.Flow) and [Laravel Queues in Action](https://www.goodreads.com/book/show/55151414-laravel-queues-in-action) whenever I can! 🤓
+- 📚 &nbsp;&nbsp;Oh and! Reading [Refactoring by Martin Fowler](https://www.goodreads.com/book/show/44719608-refactoring#:~:text=Martin%20Fowler,-4.25&text=This%20eagerly%20awaited%20new%20edition,that%20demonstrate%20refactoring%20without%20classes.) whenever I can! 🤓
 
 - 🕺🏻 &nbsp;&nbsp;New porfolio website incoming!
 ---
