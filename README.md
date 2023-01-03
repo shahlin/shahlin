@@ -7,7 +7,7 @@
 
 💻 &nbsp;&nbsp;Currently source diving on Laravel and trying to improve my web design skills!
 
-📚 &nbsp;&nbsp;Oh and! Reading [Refactoring by Martin Fowler](https://www.goodreads.com/book/show/44719608-refactoring#:~:text=Martin%20Fowler,-4.25&text=This%20eagerly%20awaited%20new%20edition,that%20demonstrate%20refactoring%20without%20classes.) whenever I can! 🤓
+📚 &nbsp;&nbsp;Oh and! Reading [Irresistible APIs by Kirsten Hunter]([https://www.goodreads.com/book/show/44719608-refactoring#:~:text=Martin%20Fowler,-4.25&text=This%20eagerly%20awaited%20new%20edition,that%20demonstrate%20refactoring%20without%20classes.](https://www.amazon.com/Irresistible-APIs-Designing-that-developers/dp/1617292559)) whenever I can! 🤓
 
 
 ### Find me on
