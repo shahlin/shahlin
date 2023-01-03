@@ -7,7 +7,7 @@
 
 💻 &nbsp;&nbsp;Currently source diving on Laravel and trying to improve my web design skills!
 
-📚 &nbsp;&nbsp;Oh and! Reading [Irresistible APIs by Kirsten Hunter](https://www.amazon.com/Irresistible-APIs-Designing-that-developers/dp/1617292559)) whenever I can! 🤓
+📚 &nbsp;&nbsp;Oh and! Reading [Irresistible APIs by Kirsten Hunter](https://www.amazon.com/Irresistible-APIs-Designing-that-developers/dp/1617292559) whenever I can! 🤓
 
 
 ### Find me on
