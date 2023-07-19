@@ -5,7 +5,7 @@
 
 🧘🏻‍♂️ &nbsp;&nbsp;If I'm not talking computers, it's probably video games, philosophy/psychology or food 🍔
 
-💻 &nbsp;&nbsp;Currently working on my new productivity tool **Happi**
+💻 &nbsp;&nbsp;Currently working on my new productivity tool [**Happi**](https://chrome.google.com/webstore/detail/happi/enjnekjgcjcjhmdhegdgenhaghkfjfld)
 
 📚 &nbsp;&nbsp;Oh and! Reading [Irresistible APIs by Kirsten Hunter](https://www.amazon.com/Irresistible-APIs-Designing-that-developers/dp/1617292559) whenever I can! 🤓
 
