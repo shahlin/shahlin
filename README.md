@@ -5,7 +5,7 @@
 
 🧘🏻‍♂️ &nbsp;&nbsp;If I'm not talking computers, it's probably video games, piano, philosophy/psychology or food 🍔
 
-📚 &nbsp;&nbsp;Oh and! Reading [Dune by Frank Herbert](https://www.amazon.ae/Dune-Frank-Herbert/dp/0340960191/ref=asc_df_0340960191) whenever I can! 🤓
+📚 &nbsp;&nbsp;Oh and! Reading [Laws of Human Nature by Robert Greene](https://www.goodreads.com/book/show/39330937-the-laws-of-human-nature) whenever I can! 🤓
 
 
 ### Find me on
