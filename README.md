@@ -1,11 +1,11 @@
 # Hey, I’m @shahlin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-💼 &nbsp;&nbsp;I’m a software engineer, working full time on **Java/Spring Boot** and other backend technologies
+💼 &nbsp;&nbsp;I’m a software engineer, working full time on **Java** and other backend technologies
 
 ♥️ &nbsp;&nbsp;Absolutely **love**: UI/UX designing, cloud computing, open source, software architecture and much more!
 
 🧘🏻‍♂️ &nbsp;&nbsp;If I'm not talking computers, it's probably video games, piano, philosophy/psychology or food 🍔
 
-📚 &nbsp;&nbsp;Oh and! Reading [Laws of Human Nature by Robert Greene](https://www.goodreads.com/book/show/39330937-the-laws-of-human-nature) whenever I can! 🤓
+📚 &nbsp;&nbsp;Oh and! Reading [Greenlights by Matthew McConaughey]([https://www.goodreads.com/book/show/39330937-the-laws-of-human-nature](https://www.goodreads.com/en/book/show/52838315-greenlights)) whenever I can! 🤓
 
 
 ### Find me on
